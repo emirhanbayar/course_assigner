@@ -61,7 +61,7 @@ if __name__ == "__main__":
     if not os.path.isdir("chromedriver"):
         print("Chrome Driver Bulunamadı. İndiriliyor...")
         get_driver = GetChromeDriver()
-        get_driver.auto_download(extract=True)
+        get_driver.install()
         print("Chrome Driver İndirildi.")
     else:
         print("Chrome Driver Bulundu.")

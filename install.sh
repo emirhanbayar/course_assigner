@@ -1,3 +1,4 @@
+#!/bin/bash
 
 if [[ "$(python3 -V)" =~ "Python 3" ]]
 then
