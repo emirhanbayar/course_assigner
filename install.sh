@@ -23,5 +23,5 @@ fi
 
 
 
-pip install selenium==4.9.1
-pip install get-chrome-driver==1.3.10
+pip3 install selenium==4.9.1
+pip3 install get-chrome-driver==1.3.10

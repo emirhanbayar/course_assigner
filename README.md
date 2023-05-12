@@ -5,6 +5,8 @@ Haftalık ders programını EBA'ya aktarmak için kullanabilirsiniz.
 ## Gereksinimler
 
 - Google Chrome
+- Python
+- Selenium
 
 ## Kurulum
 
