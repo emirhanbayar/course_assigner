@@ -1,1 +1,2 @@
 ["Matematik", "1/H", "1", "https://us04web.zoom.us/j/sdkvsf", "5xQ9wv"]
+["Türkçe", "1/A", "1", "https://us04web.zoom.us/j/sdkvsf", "5xQ9wv"]

@@ -23,5 +23,5 @@ fi
 
 
 
-pip install -r requirements.txt
-
+pip install selenium==4.9.1
+pip install get-chrome-driver==1.3.10
